@@ -7,5 +7,5 @@ export default defineConfig({
     extensions: [".jsx", ".json", ".css", ".js"],
   },
   plugins: [react()],
-  base: "/water-tracker/",
+  base: "/node_front_fs_85_OhWellNevermind/",
 });
