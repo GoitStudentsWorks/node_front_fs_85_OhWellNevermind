@@ -7,5 +7,5 @@ export default defineConfig({
     extensions: [".jsx", ".json", ".css", ".js"],
   },
   plugins: [react()],
-  base: "/node_front_fs_85_OhWellNevermind/",
+  base: "/node_front_fs_85_OhWellNevermind",
 });
